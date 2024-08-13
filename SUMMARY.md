@@ -4,3 +4,4 @@
 * [Importando o script](importando-o-script.md)
 * [Método addEventListener](metodo-addeventlistener.md)
 * [Attributes](attributes.md)
+* [classList](classlist.md)
